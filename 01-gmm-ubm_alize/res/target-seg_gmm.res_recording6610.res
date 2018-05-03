@@ -1,0 +1,9 @@
+M Andro 1 recording6610 0.0695398
+M Arunaxis 0 recording6610 -0.0775114
+M Markandey 0 recording6610 -0.590306
+M Psub 0 recording6610 -0.513388
+M Shalini 0 recording6610 -0.0700404
+M Teeli 0 recording6610 -0.354813
+M Ti 0 recording6610 -0.195881
+M V 1 recording6610 0.0370039
+M Vaisak 0 recording6610 -0.432809
